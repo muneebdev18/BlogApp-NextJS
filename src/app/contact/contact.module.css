@@ -1,0 +1,29 @@
+.contactImg {
+  position: relative;
+  width: 550px;
+  height: 430px;
+}
+.img {
+  object-fit: contain;
+}
+.contactContainer {
+  margin-top: 160px;
+}
+.contactWrapper {
+  align-items: center;
+}
+.nameInput {
+  background-color: var(--bgSoft);
+  width: 100%;
+  outline: none;
+  color: var(--text);
+  padding: 10px 13px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

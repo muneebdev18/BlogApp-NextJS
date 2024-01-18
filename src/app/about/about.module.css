@@ -1,0 +1,49 @@
+.imgContainer {
+  position: relative;
+  height: 669px;
+  width: 480px;
+}
+/* .aboutImg {
+  object-fit: contain;
+} */
+
+.AboutImgContainer {
+  position: relative;
+  width: 559px;
+  height: 575px;
+}
+.title {
+  font-weight: 700;
+  font-size: 22px;
+  color: var(--btn);
+  margin-bottom: 3rem;
+}
+.desc {
+  font-weight: 700;
+  font-size: 2.7rem;
+  color: var(--text);
+  margin-bottom: 2.5rem;
+  line-height: 50px;
+}
+.details {
+  color: var(--text);
+  font-size: 17px;
+  margin-bottom: 2.5rem;
+}
+.aboutMain {
+  margin-top: 110px;
+}
+.stats {
+  display: flex;
+  gap: 30px;
+}
+.statsNumber {
+  font-weight: 700;
+  color: var(--btn);
+  font-size: 1.8rem;
+  margin-bottom: 7px;
+}
+.statsTitle {
+  color: var(--text);
+  font-size: 13px;
+}

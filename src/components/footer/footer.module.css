@@ -1,0 +1,12 @@
+.footerWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footerContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 140px;
+  color: white;
+  font-weight: 500;
+}
